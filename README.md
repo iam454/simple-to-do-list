@@ -4,9 +4,13 @@
 
 <img src="main.png" alt="메인 화면 이미지"/>
 
+<br />
+
 ### 배포 주소
 
 안녕 여기에 배포 주소를 적어라
+
+<br />
 
 ### 프로젝트 소개
 
@@ -22,6 +26,8 @@ react-beautiful-dnd를 사용하여 드래그 앤 드롭으로 투두의 위치�
 
 오른쪽 하단에 위치한 휴지통 영역에 투두를 드래그하면 투두가 삭제됩니다.
 
+<br />
+
 ### 목적
 
 - 타입스크립트에 익숙해지기 위해
@@ -29,6 +35,8 @@ react-beautiful-dnd를 사용하여 드래그 앤 드롭으로 투두의 위치�
 - 다양한 라이브러리를 사용해보기 위해
 
 - 프로젝트 리드미 작성 연습을 위해
+
+<br />
 
 ### 시작하기
 
@@ -49,10 +57,12 @@ npm start
 
 ### Development
 
-<img src="https://img.shields.io/badge/create react app-09D3AC?style=for-the-badge&logo=create react app&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
-<img src="https://img.shields.io/badge/react hook form-EC5990?style=for-the-badge&logo=react hook form&logoColor=white">
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=white">
-<img src="https://img.shields.io/badge/react beautiful dnd-09AE7C?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/react icons-E91E62?style=for-the-badge&logo=react&logoColor=white">
+<div style="display: flex; gap: 4px;">
+  <img src="https://img.shields.io/badge/create react app-09D3AC?style=for-the-badge&logo=create react app&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/react hook form-EC5990?style=for-the-badge&logo=react hook form&logoColor=white">
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=white">
+  <img src="https://img.shields.io/badge/react beautiful dnd-09AE7C?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react icons-E91E62?style=for-the-badge&logo=react&logoColor=white">
+</div>
