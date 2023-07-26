@@ -2,6 +2,8 @@
 
 <img src="main.png" alt="메인 화면 이미지"/>
 
+<br />
+
 ## 시작하기
 
 배포 주소에 방문하거나,
@@ -12,6 +14,8 @@
 npm install
 npm start
 ```
+
+<br />
 
 ## 프로젝트 소개
 
